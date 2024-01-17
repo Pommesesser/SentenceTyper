@@ -1,0 +1,6 @@
+# ninja log v5
+9	74	7272156882173850	CMakeFiles/SentenceTyper.dir/setup.c.obj	cbc0507cb0f8ffe6
+0	772	7272156889176327	CMakeFiles/SentenceTyper.dir/main.c.obj	38082ce30be7be6d
+6	791	7272156889367272	CMakeFiles/SentenceTyper.dir/checker.c.obj	25c377695a02cb2
+3	805	7272156889492425	CMakeFiles/SentenceTyper.dir/typer.c.obj	f73384f926e26150
+805	872	7272156890142465	SentenceTyper.exe	4b8fca2a6e8f904c

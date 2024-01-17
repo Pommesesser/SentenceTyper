@@ -1,0 +1,3 @@
+C:/Users/David/CLionProjects/SentenceTyper/cmake-build-debug/CMakeFiles/SentenceTyper.dir
+C:/Users/David/CLionProjects/SentenceTyper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David/CLionProjects/SentenceTyper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
